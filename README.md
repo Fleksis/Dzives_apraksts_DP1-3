@@ -2,11 +2,7 @@
 
 # Citāts
 
-" Everyone shoud know how to program a computer, becouse it teaches you how to think!"
-
--Steve jobs
-
-"Stīvs Jobs Saka ka jebkuram vajaga mācēt programmēt
+>man ļoti patīk programmēt un centīšos to visu iemācīties!
 
 # Python 3 koda gabaliņš
 '''
@@ -25,15 +21,28 @@ print('Rezūltāts ir', Summa)
 ![Smuka ainava](https://img3.spoki.lv/upload2/articles/83/835380/images/Labakas-ainavu-bildes-3.jpg)
 
 # Saraksts
- 
 
+1. Pirmais variants
+
+2. Otrais Variants
+
+3. Trešais variants
+
+# Saraksts2
+
+- [x] Test1
+
+- [ ] Test2
+
+- [ ] Test3
 
 # Tabula
-
-
+| Syntax | Tabula |
+| ----------- | ----------- |
+| Header | Markuss |
+| Paragraph | 02.02.2021 | 
 
 ---
-
-
-
 # Emote
+
+:smiling_face_with_three_hearts: :smiling_face_with_three_hearts: :smiling_face_with_three_hearts:
