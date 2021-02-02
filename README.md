@@ -30,17 +30,17 @@ print('Rezūltāts ir', Summa)
 
 # Saraksts2
 
-- [x] Test1
+- [x] Laba skola
 
-- [ ] Test2
+- [ ] Normāla skola
 
-- [ ] Test3
+- [ ] Drausmīga skola
 
 # Tabula
-| Syntax | Tabula |
+| Nosaukumi | Dati |
 | ----------- | ----------- |
-| Header | Markuss |
-| Paragraph | 02.02.2021 | 
+| Vārds/Uzvārds | Markuss |
+| Datums | 02.02.2021 | 
 
 ---
 # Emote
