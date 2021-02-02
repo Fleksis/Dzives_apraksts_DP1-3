@@ -6,9 +6,10 @@
 
 # Python 3 koda gabaliņš
 '''
-Divu skaitļu summa
+#Divu skaitļu summa
 
 a = int(input('Ievadiet pirmo skaitli'))
+
 b = int(input('Ievadiet otro skaitli'))
 
 Summa =  a + b
