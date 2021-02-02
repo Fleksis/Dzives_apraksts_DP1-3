@@ -48,4 +48,4 @@ print('Rezūltāts ir', Summa)
 ---
 # Emote
 
-Man patīk, ka man māca kā programmēt pareizi:smiling_face_with_three_hearts: :smiling_face_with_three_hearts: :smiling_face_with_three_hearts:
+Man patīk, ka mani māca pareizi programmēt :smiling_face_with_three_hearts: :smiling_face_with_three_hearts: :smiling_face_with_three_hearts:
