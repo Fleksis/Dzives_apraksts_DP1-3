@@ -2,10 +2,11 @@
 
 # Citāts
 
->man ļoti patīk programmēt un centīšos to visu iemācīties!
+>Man ļoti patīk programmēt un centīšos to visu iemācīties!
 
 # Python 3 koda gabaliņš
 '''
+
 #Divu skaitļu summa
 
 a = int(input('Ievadiet pirmo skaitli'))
@@ -14,6 +15,7 @@ b = int(input('Ievadiet otro skaitli'))
 
 Summa =  a + b
 print('Rezūltāts ir', Summa)
+
 '''
 
 # Bilde (Lokālā un url)
@@ -46,4 +48,4 @@ print('Rezūltāts ir', Summa)
 ---
 # Emote
 
-:smiling_face_with_three_hearts: :smiling_face_with_three_hearts: :smiling_face_with_three_hearts:
+Man patīk ka man māca programmēt:smiling_face_with_three_hearts: :smiling_face_with_three_hearts: :smiling_face_with_three_hearts:
