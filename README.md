@@ -42,7 +42,7 @@ print('Rezūltāts ir', Summa)
 # Tabula
 | Nosaukumi | Dati |
 | ----------- | ----------- |
-| Vārds/Uzvārds | Markuss |
+| Vārds/Uzvārds | Markuss Mišins |
 | Datums | 02.02.2021 | 
 
 ---
