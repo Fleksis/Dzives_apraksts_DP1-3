@@ -33,7 +33,7 @@ print('Rezūltāts ir', Summa)
 
 # Saraksts2
 
-- [x] Laba skola
+- [] Laba skola
 
 - [ ] Normāla skola
 
