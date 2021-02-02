@@ -18,7 +18,7 @@ print('Rezūltāts ir', Summa)
 
 '''
 
-# Bilde (Lokālā un url)
+# Bilde (Lokālā un URL)
 
 ![Sunīša bilde](sunits.jpg)
 ![Smuka ainava](https://img3.spoki.lv/upload2/articles/83/835380/images/Labakas-ainavu-bildes-3.jpg)
@@ -48,4 +48,4 @@ print('Rezūltāts ir', Summa)
 ---
 # Emote
 
-Man patīk ka man māca programmēt:smiling_face_with_three_hearts: :smiling_face_with_three_hearts: :smiling_face_with_three_hearts:
+Man patīk, ka man māca kā programmēt pareizi:smiling_face_with_three_hearts: :smiling_face_with_three_hearts: :smiling_face_with_three_hearts:
